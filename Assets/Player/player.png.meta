@@ -1,0 +1,1433 @@
+fileFormatVersion: 2
+guid: 60392b40f91c92b44bae30a279b27550
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: block-b1
+    21300002: block-bw1
+    21300004: block-bw2
+    21300006: block-bw3
+    21300008: block-bw4
+    21300010: block-bw5
+    21300012: block-bw6
+    21300014: block-i1
+    21300016: block-i2
+    21300018: block-rb1
+    21300020: block-rbw1
+    21300022: block-rbw2
+    21300024: block-rbw3
+    21300026: block-rbw4
+    21300028: block-rbw5
+    21300030: block-rbw6
+    21300032: block-ri1
+    21300034: block-ri2
+    21300036: block-ru1
+    21300038: block-ru2
+    21300040: block-ru4
+    21300042: block-rw1
+    21300044: block-rw2
+    21300046: block-rw3
+    21300048: block-rw4
+    21300050: block-rw5
+    21300052: block-rw6
+    21300054: block-u1
+    21300056: block-u2
+    21300058: block-u4
+    21300060: block-ub1
+    21300062: block-ubw1
+    21300064: block-ubw2
+    21300066: block-ubw3
+    21300068: block-ubw4
+    21300070: block-ubw5
+    21300072: block-ubw6
+    21300074: block-ui1
+    21300076: block-ui2
+    21300078: block-uu1
+    21300080: block-uu2
+    21300082: block-uu4
+    21300084: block-uw1
+    21300086: block-uw2
+    21300088: block-uw3
+    21300090: block-uw4
+    21300092: block-uw5
+    21300094: block-uw6
+    21300096: block-w1
+    21300098: block-w2
+    21300100: block-w3
+    21300102: block-w4
+    21300104: block-w5
+    21300106: block-w6
+    21300108: d1
+    21300110: d2
+    21300112: d3
+    21300114: d4
+    21300116: da1
+    21300118: da2
+    21300120: da3
+    21300122: da4
+    21300124: da5
+    21300126: da6
+    21300128: da7
+    21300130: didle
+    21300132: l1
+    21300134: l2
+    21300136: l3
+    21300138: l4
+    21300140: la1
+    21300142: la2
+    21300144: la3
+    21300146: la4
+    21300148: la5
+    21300150: la6
+    21300152: la7
+    21300154: lidle
+    21300156: r1
+    21300158: r2
+    21300160: r3
+    21300162: r4
+    21300164: ra1
+    21300166: ra2
+    21300168: ra3
+    21300170: ra4
+    21300172: ra5
+    21300174: ra6
+    21300176: ra7
+    21300178: ridle
+    21300180: u1
+    21300182: u2
+    21300184: u3
+    21300186: u4
+    21300188: ua1
+    21300190: ua2
+    21300192: ua3
+    21300194: ua4
+    21300196: ua5
+    21300198: ua6
+    21300200: ua7
+    21300202: uidle
+    21300204: water-idle-dw1
+    21300206: water-idle-dw2
+    21300208: water-idle-dw3
+    21300210: water-idle-dw4
+    21300212: water-idle-lw1
+    21300214: water-idle-lw2
+    21300216: water-idle-lw3
+    21300218: water-idle-lw4
+    21300220: water-idle-uw1
+    21300222: water-idle-uw2
+    21300224: water-idle-uw3
+    21300226: water-idle-uw4
+    21300228: water-moving-dwm1
+    21300230: water-moving-dwm2
+    21300232: water-moving-dwm3
+    21300234: water-moving-dwm4
+    21300236: water-moving-lwm1
+    21300238: water-moving-lwm2
+    21300240: water-moving-lwm3
+    21300242: water-moving-lwm4
+    21300244: water-moving-uwm1
+    21300246: water-moving-uwm2
+    21300248: water-moving-uwm3
+    21300250: water-moving-uwm4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: block-b1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 964
+        width: 52
+        height: 56
+      alignment: 9
+      pivot: {x: .423076928, y: .535714269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-bw1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 964
+        width: 52
+        height: 56
+      alignment: 9
+      pivot: {x: .423076928, y: .535714269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-bw2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 964
+        width: 52
+        height: 56
+      alignment: 9
+      pivot: {x: .423076928, y: .535714269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-bw3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 968
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: .423076928, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-bw4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 964
+        width: 52
+        height: 56
+      alignment: 9
+      pivot: {x: .423076928, y: .535714269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-bw5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 968
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: .423076928, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-bw6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 964
+        width: 52
+        height: 56
+      alignment: 9
+      pivot: {x: .423076928, y: .535714269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-i1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 964
+        width: 52
+        height: 56
+      alignment: 9
+      pivot: {x: .423076928, y: .464285702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-i2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 964
+        width: 52
+        height: 56
+      alignment: 9
+      pivot: {x: .423076928, y: .464285702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-rb1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 968
+        width: 44
+        height: 52
+      alignment: 9
+      pivot: {x: .409090906, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-rbw1
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 968
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: .458333343, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-rbw2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 908
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: .458333343, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-rbw3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 908
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: .458333343, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-rbw4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 908
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: .458333343, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-rbw5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 908
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: .458333343, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-rbw6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 908
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: .458333343, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-ri1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 908
+        width: 44
+        height: 52
+      alignment: 9
+      pivot: {x: .409090906, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-ri2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 908
+        width: 44
+        height: 52
+      alignment: 9
+      pivot: {x: .409090906, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-ru1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 912
+        width: 44
+        height: 48
+      alignment: 9
+      pivot: {x: .409090906, y: .541666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-ru2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 908
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: .458333343, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-ru4
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 908
+        width: 44
+        height: 52
+      alignment: 9
+      pivot: {x: .409090906, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-rw1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 852
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-rw2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 852
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-rw3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 852
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-rw4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 852
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-rw5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 852
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-rw6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 852
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-u1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 860
+        width: 52
+        height: 44
+      alignment: 9
+      pivot: {x: .423076928, y: .590909064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-u2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 844
+        width: 56
+        height: 60
+      alignment: 9
+      pivot: {x: .464285702, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-u4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 848
+        width: 52
+        height: 56
+      alignment: 9
+      pivot: {x: .423076928, y: .464285702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-ub1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 776
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: .375, y: .53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-ubw1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 776
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: .375, y: .53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-ubw2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 780
+        width: 48
+        height: 60
+      alignment: 9
+      pivot: {x: .375, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-ubw3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 780
+        width: 48
+        height: 60
+      alignment: 9
+      pivot: {x: .375, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-ubw4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 780
+        width: 48
+        height: 60
+      alignment: 9
+      pivot: {x: .375, y: .566666663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-ubw5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 784
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: .375, y: .535714269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-ubw6
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 784
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: .375, y: .535714269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-ui1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 788
+        width: 56
+        height: 52
+      alignment: 9
+      pivot: {x: .464285702, y: .576923072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-ui2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 788
+        width: 56
+        height: 52
+      alignment: 9
+      pivot: {x: .464285702, y: .576923072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-uu1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 724
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: .375, y: .625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-uu2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 716
+        width: 60
+        height: 56
+      alignment: 9
+      pivot: {x: .433333337, y: .535714269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-uu4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 720
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: .423076928, y: .576923072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-uw1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 708
+        width: 56
+        height: 64
+      alignment: 9
+      pivot: {x: .464285702, y: .53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-uw2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 712
+        width: 56
+        height: 60
+      alignment: 9
+      pivot: {x: .464285702, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-uw3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 712
+        width: 56
+        height: 60
+      alignment: 9
+      pivot: {x: .464285702, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-uw4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 712
+        width: 56
+        height: 60
+      alignment: 9
+      pivot: {x: .464285702, y: .566666663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-uw5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 716
+        width: 56
+        height: 56
+      alignment: 9
+      pivot: {x: .464285702, y: .535714269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-uw6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 648
+        width: 56
+        height: 56
+      alignment: 9
+      pivot: {x: .464285702, y: .535714269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-w1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 648
+        width: 52
+        height: 56
+      alignment: 9
+      pivot: {x: .423076928, y: .535714269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-w2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 652
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: .423076928, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-w3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 652
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: .423076928, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-w4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 648
+        width: 52
+        height: 56
+      alignment: 9
+      pivot: {x: .423076928, y: .535714269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-w5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 652
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: .423076928, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block-w6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 652
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: .423076928, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: d1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 656
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: .4375, y: .5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: d2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 656
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: .4375, y: .5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: d3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 656
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: .4375, y: .5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: d4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 596
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: .4375, y: .5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: da1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 596
+        width: 52
+        height: 48
+      alignment: 9
+      pivot: {x: .0769230798, y: .375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: da2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 588
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: .0833333358, y: .464285702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: da3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 584
+        width: 48
+        height: 60
+      alignment: 9
+      pivot: {x: .0833333358, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: da4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 580
+        width: 52
+        height: 64
+      alignment: 9
+      pivot: {x: .15384616, y: .53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: da5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 580
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: .3125, y: .53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: da6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 584
+        width: 72
+        height: 60
+      alignment: 9
+      pivot: {x: .388888896, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: da7
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 592
+        width: 84
+        height: 52
+      alignment: 9
+      pivot: {x: .476190478, y: .423076928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: didle
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 532
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: .416666657, y: .590909064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: l1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 528
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: .4375, y: .5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: l2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 528
+        width: 44
+        height: 48
+      alignment: 9
+      pivot: {x: .477272719, y: .5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: l3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 528
+        width: 44
+        height: 48
+      alignment: 9
+      pivot: {x: .477272719, y: .5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: l4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 532
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: .477272719, y: .522727251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: la1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 520
+        width: 40
+        height: 56
+      alignment: 9
+      pivot: {x: .100000001, y: .464285702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: la2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 524
+        width: 44
+        height: 52
+      alignment: 9
+      pivot: {x: .181818187, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: la3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 524
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: .461538464, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: la4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 524
+        width: 60
+        height: 52
+      alignment: 9
+      pivot: {x: .533333361, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: la5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 468
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: .5625, y: .541666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: la6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 468
+        width: 60
+        height: 48
+      alignment: 9
+      pivot: {x: .533333361, y: .625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: la7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 460
+        width: 52
+        height: 56
+      alignment: 9
+      pivot: {x: .461538464, y: .678571403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lidle
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 472
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: .386363626, y: .590909064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: r1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 464
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: .416666657, y: .576923072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: r2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 468
+        width: 44
+        height: 48
+      alignment: 9
+      pivot: {x: .363636374, y: .541666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: r3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 464
+        width: 44
+        height: 52
+      alignment: 9
+      pivot: {x: .363636374, y: .576923072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: r4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 472
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: .454545468, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ra1
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 460
+        width: 44
+        height: 56
+      alignment: 9
+      pivot: {x: .727272749, y: .464285702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ra2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 404
+        width: 40
+        height: 52
+      alignment: 9
+      pivot: {x: .699999988, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ra3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 404
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: .538461566, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ra4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 404
+        width: 64
+        height: 52
+      alignment: 9
+      pivot: {x: .4375, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ra5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 408
+        width: 68
+        height: 48
+      alignment: 9
+      pivot: {x: .411764711, y: .541666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ra6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 408
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: .4375, y: .625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ra7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 400
+        width: 52
+        height: 56
+      alignment: 9
+      pivot: {x: .538461566, y: .678571403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ridle
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 412
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: .386363626, y: .590909064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: u1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 404
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: .416666657, y: .576923072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: u2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 344
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: .416666657, y: .576923072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: u3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 344
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: .333333343, y: .576923072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: u4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 344
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: .333333343, y: .576923072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ua1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 340
+        width: 60
+        height: 56
+      alignment: 9
+      pivot: {x: .649999976, y: .857142866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ua2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 328
+        width: 64
+        height: 68
+      alignment: 9
+      pivot: {x: .671875, y: .70588237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ua3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 324
+        width: 60
+        height: 72
+      alignment: 9
+      pivot: {x: .649999976, y: .666666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ua4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 320
+        width: 48
+        height: 76
+      alignment: 9
+      pivot: {x: .5625, y: .631578922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ua5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 320
+        width: 60
+        height: 76
+      alignment: 9
+      pivot: {x: .449999988, y: .631578922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ua6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 248
+        width: 76
+        height: 68
+      alignment: 9
+      pivot: {x: .355263144, y: .70588237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ua7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 252
+        width: 80
+        height: 64
+      alignment: 9
+      pivot: {x: .337500006, y: .75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: uidle
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 268
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: .416666657, y: .583333313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-idle-dw1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 276
+        width: 52
+        height: 40
+      alignment: 9
+      pivot: {x: .423076928, y: .449999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-idle-dw2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 272
+        width: 52
+        height: 44
+      alignment: 9
+      pivot: {x: .423076928, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-idle-dw3
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 272
+        width: 52
+        height: 44
+      alignment: 9
+      pivot: {x: .423076928, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-idle-dw4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 272
+        width: 52
+        height: 44
+      alignment: 9
+      pivot: {x: .423076928, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-idle-lw1
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 272
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: .375, y: .590909064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-idle-lw2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 196
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: .375, y: .625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-idle-lw3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 196
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: .375, y: .625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-idle-lw4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 196
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: .392857134, y: .625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-idle-uw1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 200
+        width: 60
+        height: 44
+      alignment: 9
+      pivot: {x: .433333337, y: .409090906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-idle-uw2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 196
+        width: 60
+        height: 48
+      alignment: 9
+      pivot: {x: .433333337, y: .458333343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-idle-uw3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 196
+        width: 60
+        height: 48
+      alignment: 9
+      pivot: {x: .433333337, y: .458333343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-idle-uw4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 196
+        width: 60
+        height: 48
+      alignment: 9
+      pivot: {x: .433333337, y: .458333343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-moving-dwm1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 204
+        width: 52
+        height: 40
+      alignment: 9
+      pivot: {x: .423076928, y: .449999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-moving-dwm2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 152
+        width: 56
+        height: 40
+      alignment: 9
+      pivot: {x: .464285702, y: .449999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-moving-dwm3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 148
+        width: 56
+        height: 44
+      alignment: 9
+      pivot: {x: .392857134, y: .409090906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-moving-dwm4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 148
+        width: 52
+        height: 44
+      alignment: 9
+      pivot: {x: .423076928, y: .318181813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-moving-lwm1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 148
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: .375, y: .590909064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-moving-lwm2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 148
+        width: 52
+        height: 44
+      alignment: 9
+      pivot: {x: .346153855, y: .590909064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-moving-lwm3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 148
+        width: 52
+        height: 44
+      alignment: 9
+      pivot: {x: .346153855, y: .590909064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-moving-lwm4
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 148
+        width: 56
+        height: 44
+      alignment: 9
+      pivot: {x: .321428567, y: .590909064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-moving-uwm1
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 148
+        width: 56
+        height: 44
+      alignment: 9
+      pivot: {x: .392857134, y: .409090906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-moving-uwm2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 92
+        width: 60
+        height: 52
+      alignment: 9
+      pivot: {x: .433333337, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-moving-uwm3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 88
+        width: 60
+        height: 56
+      alignment: 9
+      pivot: {x: .433333337, y: .535714269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water-moving-uwm4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 84
+        width: 56
+        height: 60
+      alignment: 9
+      pivot: {x: .464285702, y: .566666663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
