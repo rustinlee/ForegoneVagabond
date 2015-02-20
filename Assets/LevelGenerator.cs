@@ -8,7 +8,7 @@ public class LevelGenerator : MonoBehaviour {
 	public int levelWidth; // number of tiles the level is wide
 	public int levelHeight; // number of tiles the level is high
 
-	void Start () {
+	void Awake() {
 		Transform currentTile;
 		int randomIndex;
 		for(int x = 0; x < levelWidth; x++) {
@@ -28,7 +28,18 @@ public class LevelGenerator : MonoBehaviour {
 		}
 	}
 
-	void Update () {
-	
+	void Start() {
+		Camera cam = Camera.main.camera;
+
+		float tileSize = tileList[0].renderer.bounds.size.x; //assuming all tiles are the same square size
+		float vertExtent = cam.orthographicSize;
+		float horizExtent = vertExtent * Screen.width / Screen.height;
+		Vector2 mapSize = new Vector2(levelWidth * tileSize, levelHeight * tileSize);
+
+		//these calculations assume a map starting at the top left, not bottom left
+		Vector2 min = new Vector2(0 + horizExtent, -mapSize.y + vertExtent);
+		Vector2 max = new Vector2(mapSize.x - horizExtent, 0 - vertExtent);
+
+		cam.GetComponent<CameraFollow>().SetConstraints(min, max);
 	}
 }
